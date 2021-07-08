@@ -15,7 +15,7 @@ Also, I will add implementation of a few data structures and alogrithms from scr
 - [ ] Heap sort
 - [x] Insertion sort
 - [ ] Count sort
-- [ ] Bineary search
+- [x] Bineary search
 - [ ] Breadth first search
 - [ ] Depth first search
 - [ ] Dijkstra 
