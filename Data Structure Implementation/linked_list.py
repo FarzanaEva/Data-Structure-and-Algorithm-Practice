@@ -151,16 +151,3 @@ if __name__ == "__main__":
 
     print("After deletion")
     llist.printList()
-
-
-
-
-
-
-
-    
-
-
-    
-
-    
