@@ -1,13 +1,23 @@
 # Data Structure and Algorithm Practice
 
 This repo is about the solution of various programming problems from different online judges.
-Also, I will add implementation of a few data structures and alogrithms from scratch.
+Also, I will add the implementation of a few data structures and alogrithms from scratch.
 
 ### Data Structure Implementation
-- [ ] Linked List (Single, Doubly, Circular)
-- [ ] Stack and Queue (Priority Queue)
-- [ ] Tree (Binary, N-ary Tree)
+- [ ] Linked List
+  - [x] Singly Linked List
+  - [ ] Doubly Linked List
+  - [ ] Circular Linked List
+- [ ] Stack and Queue
+  - [x] Stack
+  - [x] Queue
+  - [ ] Priority Queue
+- [ ] Tree
+  - [ ] Binary Tree
+  - [ ] N-ary Tree
 - [ ] Heap
+  - [ ] Min Heap
+  - [ ] Max Heap
 
 ### Algorithm Implementation
 - [x] Merge sort
